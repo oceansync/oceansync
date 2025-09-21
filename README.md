@@ -34,7 +34,7 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 [![My tech](https://skillicons.dev/icons?i=py,ts,java,lua,bash,go,dart,react,vim,postgres,powershell,qt,raspberrypi,redis,selenium,aws,gcp,azure,bun,cmake,django,docker,electron,fastapi,firebase,flask,gradle,godot,grafana,graphql,gtk,htmx,kali,mysql,mongodb,nginx&perline=18)](https://skillicons.dev)
 
 Contributions Graph:
-[![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Deniernal354&theme=react-dark&hide_border=true&area=true)]()
+[![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=oceansync&theme=react-dark&hide_border=true&area=true)]()
 
 <!-- [![An image of @deniernal354's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deniernal354)](https://holopin.io/@deniernal354)-->
 
@@ -139,17 +139,17 @@ Contributions Graph:
 -->
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=Deniernal354&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Amr Moustafa's github stats"/></a> |  |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=oceansync&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Amr Moustafa's github stats"/></a> |  |
 | ------------- | ------------- |
-| <img align="center" src="https://github-profile-trophy.vercel.app/?username=Deniernal354&column=5&margin-w=7&margin-h=7&theme=dracula&no-frame=true" alt="Amr Moustafa's github trophies"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Deniernal354&theme=dracula" alt="Amr Moustafa's GitHub Contribution Streaks"/> |
+| <img align="center" src="https://github-profile-trophy.vercel.app/?username=oceansync&column=5&margin-w=7&margin-h=7&theme=dracula&no-frame=true" alt="Amr Moustafa's github trophies"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=oceansync&theme=dracula" alt="Amr Moustafa's GitHub Contribution Streaks"/> |
 
 ### MY HOLOPIN BADGES :D
-[![An image of @deniernal354's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deniernal354)](https://holopin.io/@deniernal354)
+[![An image of @oceansync's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oceansync)](https://holopin.io/@oceansync)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Deniernal354&color=4f6a31&style=flat-square) 
+![Profile Views](https://komarev.com/ghpvc/?username=oceansync&color=4f6a31&style=flat-square) 
 
 <!--
-**Deniernal354/Deniernal354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oceansync/oceansync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

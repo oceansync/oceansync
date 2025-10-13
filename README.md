@@ -138,13 +138,16 @@ Contributions Graph:
 
 -->
 
+![Github Stats](https://github-readme-stats-gray-eight-32.vercel.app/api?username=oceansync&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true)
 
+<!--
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-gray-eight-32.vercel.app/api?username=oceansync&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Amr Moustafa's github stats"/></a> |  |
 | ------------- | ------------- |
 | <img align="center" src="https://github-profile-trophy.vercel.app/?username=oceansync&column=5&margin-w=7&margin-h=7&theme=dracula&no-frame=true" alt="Amr Moustafa's github trophies"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=oceansync&theme=dracula" alt="Amr Moustafa's GitHub Contribution Streaks"/> |
+-->
 
 ### MY HOLOPIN BADGES :D
-[![An image of @oceansync's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oceansync)](https://holopin.io/@oceansync)
+[![An image of @oceansync's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Deniernal354)](https://holopin.io/@Deniernal354)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oceansync&color=4f6a31&style=flat-square) 
 

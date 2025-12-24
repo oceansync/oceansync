@@ -33,8 +33,12 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 #### Tech I currently use or have used previously
 [![My tech](https://skillicons.dev/icons?i=py,ts,java,lua,bash,go,dart,react,vim,postgres,powershell,qt,raspberrypi,redis,selenium,aws,gcp,azure,bun,cmake,django,docker,electron,fastapi,firebase,flask,gradle,godot,grafana,graphql,gtk,htmx,kali,mysql,mongodb,nginx&perline=18)](https://skillicons.dev)
 
+<!-- 
+
 Contributions Graph:
 [![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=oceansync&theme=react-dark&hide_border=true&area=true)]()
+
+-->
 
 <!-- [![An image of @deniernal354's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deniernal354)](https://holopin.io/@deniernal354)-->
 

@@ -1,13 +1,13 @@
 ![Header](./My-header.png)
 
-#### 🔘 Currently looking for **Summer 2026, and Fall 2026** Internships or CO-OPs
+#### 🔘 Currently looking for **Summer 2026, and Fall 2027** Internships or CO-OPs
 
 
 # 
 
 👨‍💻 Dedicated engineer focusing on spearheading real world projects in Python, C++, Bash, Go to create efficient solutions to every day problems
 
-| 🌐 [Personal Website](https://amr.csproject.org?r=githubpage) | 
+<!--| 🌐 [Personal Website](https://amr.csproject.org?r=githubpage) | -->
 
 
 #

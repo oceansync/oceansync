@@ -31,7 +31,7 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 -->
 
 #### Tech I currently use or have used previously
-[![My tech](https://skillicons.dev/icons?i=py,ts,java,lua,bash,go,dart,react,vim,postgres,powershell,qt,raspberrypi,redis,selenium,aws,gcp,azure,bun,cmake,django,docker,electron,fastapi,firebase,flask,gradle,godot,grafana,graphql,gtk,htmx,kali,mysql,mongodb,nginx&perline=18)](https://skillicons.dev)
+[![My tech](https://skillicons.dev/icons?i=py,ts,java,bash,go,dart,react,postgres,qt,redis,selenium,aws,gcp,azure,bun,django,docker,fastapi,firebase,flask,grafana,graphql,kubernetes,mongodb&perline=8)](https://skillicons.dev)
 
 <!-- 
 

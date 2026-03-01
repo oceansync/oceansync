@@ -19,8 +19,11 @@
 
 - I also like to contribute to the various projects in open source world.
 
-My open-source world contributions so far are: <pre><a href="https://github.com/CarletonComputerScienceSociety"><img src="https://avatars.githubusercontent.com/u/1243507?v=4" align="center" width="20" alt="Carleton University's Computer Science Society (CCSS) Logo"></a> <a href="https://github.com/CarletonComputerScienceSociety">Carleton University's Computer Science Society</a><br>
-<a href="https://hacktoberfest.com"><img src="https://iili.io/J5Hxj6B.jpg" align="center" width="20" alt="Hacktoberfest 2023 Logo"></a> <a href="https://hacktoberfest.com">Hacktoberfest 2020 and Hacktoberfest 2023</a></pre>
+My open-source world contributions so far are: <pre>
+<a href="https://github.com/flutter/website"><img src="https://avatars.githubusercontent.com/u/14101776?s=48&v=4" align="center" width="20" alt="Flutter Logo"></a> <a href="https://github.com/flutter/website">Flutter</a><br>
+<a href="https://github.com/CarletonComputerScienceSociety"><img src="https://avatars.githubusercontent.com/u/1243507?v=4" align="center" width="20" alt="Carleton University's Computer Science Society (CCSS) Logo"></a> <a href="https://github.com/CarletonComputerScienceSociety">Carleton University's Computer Science Society</a>
+<br><a href="https://hacktoberfest.com"><img src="https://iili.io/J5Hxj6B.jpg" align="center" width="20" alt="Hacktoberfest 2023 Logo"></a> <a href="https://hacktoberfest.com">Hacktoberfest 2020 and Hacktoberfest 2023</a>
+</pre>
 
 ---
 

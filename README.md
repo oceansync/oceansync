@@ -5,7 +5,7 @@
 
 # 
 
-👨‍💻 Dedicated engineer focusing on spearheading real world projects in Python, C++, Bash, Go to create efficient solutions to every day problems
+👨‍💻 Dedicated engineer focusing on spearheading real world projects in Python, C++, Go to create efficient solutions to every day problems
 
 <!--| 🌐 [Personal Website](https://amr.csproject.org?r=githubpage) | -->
 
@@ -31,7 +31,7 @@ My open-source world contributions so far are: <pre><a href="https://github.com/
 -->
 
 #### Tech I currently use or have used previously
-[![My tech](https://skillicons.dev/icons?i=py,ts,java,bash,go,dart,react,postgres,qt,redis,selenium,aws,gcp,azure,bun,django,docker,fastapi,firebase,flask,grafana,graphql,kubernetes,mongodb&perline=8)](https://skillicons.dev)
+[![My tech](https://skillicons.dev/icons?i=py,ts,java,go,dart,react,postgres,redis,aws,gcp,azure,django,docker,fastapi,firebase,flask,grafana,graphql,kubernetes,mongodb&perline=8)](https://skillicons.dev)
 
 <!-- 
 

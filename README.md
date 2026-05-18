@@ -1,6 +1,6 @@
 ![Header](./My-header.png)
 
-#### 🔘 Currently looking for **Summer 2027, and Fall 2027** Internships or CO-OPs
+#### 🔘 Currently looking for **Summer 2027, and Fall 2027** Internships or Co-ops
 
 
 # 
@@ -13,9 +13,9 @@
 #
 
 ### About Me
-- I simply love to automate boring tasks and craft solutions to enhance our lives using any piece of tech, if there's something I don't know, I'll make time to learn it well<br>
+- I simply love to automate boring tasks and craft solutions to enhance our lives using tech, if there's something I don't know, I'll make time to learn it well.<br>
 
-- I create and maintain games with multi-million visitors using the Roblox game engine in my free time. <br>
+- I built and maintained a suite of Roblox roleplay games in `Luau` contributing to titles with 5.5M+ combined visit.<br>
 
 - I also like to contribute to the various projects in open source world.
 
